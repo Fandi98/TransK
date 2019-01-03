@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListHalte</string>
+    <string name="halte_pertama">halte pertama</string>
+    <string name="terletak_di_posisi_a">Terletak di posisi A</string>
+</resources>
